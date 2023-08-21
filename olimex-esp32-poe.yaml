@@ -28,7 +28,7 @@ logger:
 ota:
 
 dashboard_import:
-  package_import_url: github://esphome/bluetooth-proxies/olimex-esp32-poe-iso.yaml@main
+  package_import_url: github://Bubbagump209/olimex-poe/olimex-esp32-poe.yaml
 
 esp32_ble_tracker:
   scan_parameters:
